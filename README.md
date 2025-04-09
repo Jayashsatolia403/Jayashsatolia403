@@ -24,7 +24,7 @@
 
 ### 📫 Let's Connect
 📧 jayashsatolia403@gmail.com  
-🧑‍💻 [GitHub](https://github.com/your-username) *(Replace with your actual GitHub link)*  
+🧑‍💻 [GitHub](https://github.com/Jayashsatolia403) 
 🌐 Personal website: *Coming soon...*
 
 ---
@@ -32,8 +32,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayashsatolia403&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayashsatolia403&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
