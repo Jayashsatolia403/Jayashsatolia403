@@ -36,13 +36,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayashsatolia403&show_icons=true&theme=radical" width="48%" />
-</p>
-
----
 
 > “Code is poetry. Clean, consistent, and resilient.”
 
