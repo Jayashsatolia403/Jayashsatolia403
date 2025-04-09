@@ -13,18 +13,19 @@
 ---
 
 ### 🛠️ Tech Stack  
-![Golang](https://img.shields.io/badge/-Golang-000?style=flat&logo=go&logoColor=00ADD8)  
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)  
-![Redis](https://img.shields.io/badge/-Redis-000?style=flat&logo=redis)  
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-000?style=flat&logo=elasticsearch)  
-![RocksDB](https://img.shields.io/badge/-RocksDB-000?style=flat&logo=rocksdb&logoColor=white)  
-![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazonaws)  
-![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)  
-![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)  
-![Grafana](https://img.shields.io/badge/-Grafana-000?style=flat&logo=grafana)  
-![0chain](https://img.shields.io/badge/-0chain-000?style=flat&logo=zero&logoColor=00ADD8)  
+![Golang](https://img.shields.io/badge/-Golang-000?style=flat&logo=go&logoColor=00ADD8) 
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql) 
+![Redis](https://img.shields.io/badge/-Redis-000?style=flat&logo=redis) 
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-000?style=flat&logo=elasticsearch) 
+![RocksDB](https://img.shields.io/badge/-RocksDB-000?style=flat&logo=rocksdb&logoColor=white) 
+![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazonaws) 
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker) 
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux) 
+![Grafana](https://img.shields.io/badge/-Grafana-000?style=flat&logo=grafana) 
+![0chain](https://img.shields.io/badge/-0chain-000?style=flat&logo=zero&logoColor=00ADD8) 
 ![Blockchain](https://img.shields.io/badge/-Blockchain-000?style=flat&logo=blockchain-dot-com)
+
 
 
 ---
