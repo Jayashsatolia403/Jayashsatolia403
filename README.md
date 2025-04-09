@@ -33,7 +33,6 @@
 ### 📫 Let's Connect
 📧 jayashsatolia403@gmail.com  
 🧑‍💻 [GitHub](https://github.com/Jayashsatolia403) 
-🌐 Personal website: *Coming soon...*
 
 ---
 
