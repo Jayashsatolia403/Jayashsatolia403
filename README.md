@@ -1,6 +1,6 @@
 # Hi, I'm Jayash Satolia 👋
 
-🚀 **Lead Software Engineer @ 0chain**  
+🚀 **Lead Backend Software Engineer @ 0chain**  
 💻 Passionate about building scalable backend systems, blockchain infrastructure, and high-performance APIs.
 
 ---
