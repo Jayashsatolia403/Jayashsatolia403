@@ -33,6 +33,9 @@
 ### 📫 Let's Connect
 📧 jayashsatolia403@gmail.com  
 🧑‍💻 [GitHub](https://github.com/Jayashsatolia403) 
+🔗 [Linkedin](https://www.linkedin.com/in/jayash-satolia-4a5289208/)
+🔗 [Medium](https://medium.com/@jayashsatolia403)
+
 
 ---
 
